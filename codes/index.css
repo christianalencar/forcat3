@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.html, .body {
+	background: linear-gradient(to left, #6eb4cf, #dd9d3c);
+	margin: 0;
+	padding: 1%;
+	font-family: 'Cambria', sans-serif;
+	align-items: center;
+}
+
+.iniciar-jogo {
+	background: linear-gradient(80deg, red, #dd9d3c);
+	font-family: 'Cambria', sans-serif;
+	font-size: 150%;
+	border: 1px;
+	border-radius: 20px;
+  	height: 40px;
+  	width: 10%;
+	margin: 5px,20px;
+  	cursor: pointer;
+	align-items: center;
+}
