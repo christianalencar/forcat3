@@ -381,3 +381,5 @@ let bntReiniciar = document.querySelector("#btnReiniciar")
 bntReiniciar.addEventListener("click", function(){
     location.reload();
 });
+
+carregaImagemForca();
